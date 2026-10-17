@@ -1,0 +1,15 @@
+node_modules/
+lib/
+coverage/
+.nyc_output/
+.env
+.env.*
+!.env.example
+auth_info/
+auth_info_*/
+baileys_store_multi.json
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
